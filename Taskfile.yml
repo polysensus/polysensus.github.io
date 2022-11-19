@@ -1,0 +1,12 @@
+---
+version: '3'
+
+tasks:
+  build:
+    desc: build site content (commit to git and push to publish)
+    cmds:
+      - hugo -D
+  serve:
+    desc: make the site available localy while developing
+    cmds:
+      - hugo server --disableFastRender

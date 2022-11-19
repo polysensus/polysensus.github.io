@@ -1,0 +1,21 @@
+baseURL: 'https://www.polysensus.io/'
+languageCode: 'en-us'
+title: 'Polysensus'
+theme: "hugo-theme-lean-launch-page"
+
+author: "Polysensus Limited"
+canonifyurls: true
+paginate: 3
+
+publishDir: "docs"
+
+theme: "hugo-theme-lean-launch-page"
+
+# googleAnalytics: "UA-123456"
+
+params:
+  tagline: "Puting ledgers to work for gamers and game devs"
+  discord: "https://discord.gg/rjTr6U7Z3u"
+  twitter: "https://twitter.com/polysensus"
+  linkedin: "https://www.linkedin.com/company/polysensus"
+  github: "https://github.com/polysensus"
