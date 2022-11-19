@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benefits on Polysensus</title>
-    <link>https://www.polysensus.io/benefits/</link>
+    <link>https://www.polysensus.com/benefits/</link>
     <description>Recent content in Benefits on Polysensus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.polysensus.io/benefits/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.polysensus.com/benefits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low latency transactions</title>
-      <link>https://www.polysensus.io/benefits/benefit-1/</link>
+      <link>https://www.polysensus.com/benefits/benefit-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.polysensus.io/benefits/benefit-1/</guid>
+      <guid>https://www.polysensus.com/benefits/benefit-1/</guid>
       <description>An EVM-compatible consensus model that can bring ~1s latency and 2,000 tps to a network with 10,000s of validators. Decentralized, fast, flexible - and ready to bring the fun to on-chain gaming and game development.</description>
     </item>
     
     <item>
       <title>Watch the demo</title>
-      <link>https://www.polysensus.io/benefits/benefit-2/</link>
+      <link>https://www.polysensus.com/benefits/benefit-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.polysensus.io/benefits/benefit-2/</guid>
+      <guid>https://www.polysensus.com/benefits/benefit-2/</guid>
       <description>Our first demo combines our consensus model with Go Ethereum. It shows we&amp;rsquo;re (much) faster than Polygon, with latency of ~2-3 seconds.
 Watch what a difference it makes for gameplay</description>
     </item>
     
     <item>
       <title>Low energy consumption</title>
-      <link>https://www.polysensus.io/benefits/benefit-3/</link>
+      <link>https://www.polysensus.com/benefits/benefit-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.polysensus.io/benefits/benefit-3/</guid>
+      <guid>https://www.polysensus.com/benefits/benefit-3/</guid>
       <description>With low energy consumption, those who shunned blockchain and on-chain gaming assets due to environmental concerns can lay to rest their doubts.</description>
     </item>
     

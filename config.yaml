@@ -1,4 +1,4 @@
-baseURL: 'https://www.polysensus.io/'
+baseURL: 'https://www.polysensus.com/'
 languageCode: 'en-us'
 title: 'Polysensus'
 theme: "hugo-theme-lean-launch-page"
