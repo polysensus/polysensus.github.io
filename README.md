@@ -75,5 +75,9 @@ The minimum list of command line tools required before attempting this is:
 If you locate the actions menu just below the repo title, you will be able to
 watch the progress of the site deployment
 
+# CD (Github Actions)
 
+Using
 
+* https://github.com/peaceiris/actions-hugo
+* https://github.com/marketplace/actions/github-pages-action
