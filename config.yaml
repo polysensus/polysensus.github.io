@@ -7,7 +7,7 @@ author: "Polysensus Limited"
 canonifyurls: true
 paginate: 3
 
-publishDir: "docs"
+# publishDir: "docs"
 
 theme: "hugo-theme-lean-launch-page"
 
