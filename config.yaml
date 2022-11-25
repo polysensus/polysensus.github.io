@@ -11,6 +11,11 @@ publishDir: "docs"
 
 theme: "hugo-theme-lean-launch-page"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # googleAnalytics: "UA-123456"
 
 params:
