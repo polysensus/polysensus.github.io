@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="/assets/main.css" />
 	<link href="https://fonts.googleapis.com/css?family=Nunito|Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" href="/fonts/klapt/stylesheet.css">
 	<link rel="stylesheet" href="/vendor/font-awesome/css/fontawesome.min.css">
 	<link rel="stylesheet" href="/vendor/font-awesome/css/solid.min.css">
 	<link rel="stylesheet" href="/vendor/font-awesome/css/brands.min.css">
@@ -30,7 +31,7 @@
 	</ul>
 	{{ block "main" . }}
 	{{ end }}
-	<h1>{{ .Site.Title }}</h1>
+	<h1 style="font-family: klaptregular">{{ .Site.Title }} </h1>
 	<p>{{ .Site.Params.tagline }}</p>
 	{{ range where .Site.Pages "Section" "main" }}
 		{{ if in .Path ".md" }}
